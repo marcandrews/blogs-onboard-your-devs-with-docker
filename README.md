@@ -1,4 +1,4 @@
-# Onboard your devs onto your distributed application in minutes with Docker
+# Onboard your devs onto your distributed application in minutes with Docker, part 1
 
 Many of today's web applications are composed of multiple layers. At minimum, there are two: a frontend presentation layer that usually runs client side and a backend layer that provides the logic and data. It's common to have additional layers too, such as: a database layer, for example PostgreSQL or MongoDB, providing long-term data storage, and; a cache layer, for example Redis, for short-term, rapid-access data storage. It is even possible to have multiple backend layers each with their own concerns; for example, one layer responsible for RESTful requests, and another for Websockets, and another for computation-intensive requests.
 
