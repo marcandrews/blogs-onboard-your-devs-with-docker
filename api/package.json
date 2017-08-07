@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Marc Andrews",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  }
+}
